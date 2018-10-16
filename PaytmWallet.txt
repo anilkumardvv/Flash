@@ -1,0 +1,19 @@
+
+
+Hello World,
+
+Welcome to my blog.
+
+If you want to pay using Paytm wallet, here are some easy steps.
+
+Step 1 > Open Paytm app in your android mobile.
+
+Step 2 > Login with your credentials
+
+Step 3 > Add money to your wallet
+
+Step 4 > Click on "Pay" option to pay to merchant
+
+Step 5 > Congrats, you have successfully paid the merchant with e-money.
+
+Thank You :)
